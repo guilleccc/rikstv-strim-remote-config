@@ -1,0 +1,27 @@
+{
+    "2017": {
+      "player": "shaka",
+      "channelsWithHLS": [
+        46,
+        47,
+        49
+      ],
+      "jumpGapsWithCeilOffsetSeconds": 5
+    },
+    "2018": {
+      "player": "shaka",
+      "jumpGapsWithCeilOffsetSeconds": 5
+    },
+    "2019": {
+      "player": "shaka",
+      "jumpGapsWithCeilOffsetSeconds": 5
+    },
+    "2020": {
+      "player": "shaka",
+      "jumpGapsWithCeilOffsetSeconds": 5
+    },
+    "default": {
+      "player": "shaka",
+      "jumpGapsWithCeilOffsetSeconds": 5
+    }
+}

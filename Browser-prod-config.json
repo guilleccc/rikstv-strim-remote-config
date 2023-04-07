@@ -1,0 +1,11 @@
+{
+    "default": {
+      "player": "shaka",
+      "channelsWithHLS": [
+        46,
+        47,
+        49
+      ],
+      "jumpGapsWithCeilOffsetSeconds": 0
+    }
+}

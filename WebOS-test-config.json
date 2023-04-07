@@ -1,0 +1,12 @@
+{
+    "5": {
+      "jumpGapsWithCeilOffsetSeconds": 5
+    },
+    "5.4": {
+      "jumpGapsWithCeilOffsetSeconds": 5
+    },
+    "default": {
+      "player": "shaka",
+      "jumpGapsWithCeilOffsetSeconds": 5
+    }
+}
