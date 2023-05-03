@@ -7,6 +7,7 @@
   },
   "default": {
     "player": "shaka",
-    "jumpGapsWithCeilOffsetSeconds": 5
+    "jumpGapsWithCeilOffsetSeconds": 5,
+    "startOffsetSeconds": 5
   }
 }
